@@ -1,7 +1,4 @@
 ### Oi, eu sou a Milena
- 
-▪ ✍️ Estudando JavaScript
-▪ 😊 Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/baianense">
