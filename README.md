@@ -1,7 +1,7 @@
 <div align="center">  
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=baianense&show_icons=true&count_private=true&hide_border=C0C0C0&title_color=836FFF&icon_color=8B008B&text_color=C0C0C0&bg_color=080424" alt="Milena de Brito Costa github stats" /> 
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=baianense&show_icons=true&count_private=true&hide_border=C0C0C0&title_color=836FFF&icon_color=8B008B&text_color=C0C0C0&bg_color=080424" alt="Milena de Brito Costa github stats" /> 
   
-  <img  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baianense&layout=compact&hide_border=C0C0C0&title_color=836FFF&text_color=C0C0C0&bg_color=080424" />
+  <img  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baianense&layout=compact&hide_border=C0C0C0&title_color=836FFF&text_color=C0C0C0&bg_color=080424" />
 </div>
 
 
