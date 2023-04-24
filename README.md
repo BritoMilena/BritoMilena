@@ -1,11 +1,9 @@
 <h3 align="center"> Oi, eu sou a Milena Brito!</h3> 
 
-<div align="center">
-  <a href="[https://github.com/Baianense](https://github.com/Baianense)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Baianense&show_icons=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=100227&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baianense&layout=compact&langs_count=16&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=100227"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=baianense&show_icons=true&count_private=true&total_issues&title_color=D889CB&icon_color=D889CB&text_color=c9d1d9&bg_color=100227" alt="Milena Brito github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baianense&layout=compact&title_color=D889CB&text_color=c9d1d9&bg_color=100227" />
 </div>
-
 
 <div style="display: inline_block" align="center"><br>
   <img height= "30" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
