@@ -1,7 +1,9 @@
-<div align="center">  
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=baianense&show_icons=true&count_private=true&hide_border=C0C0C0&title_color=836FFF&icon_color=8B008B&text_color=C0C0C0&bg_color=080424" alt="Milena de Brito Costa github stats" /> 
-  
-  <img  height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baianense&layout=compact&hide_border=C0C0C0&title_color=836FFF&text_color=C0C0C0&bg_color=080424" />
+<h3 align="center"> Oi, eu sou a Milena Brito!</h3> 
+
+<div align="center">
+  <a href="[https://github.com/Baianense](https://github.com/Baianense)"> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Baianense&show_icons=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=100227&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baianense&layout=compact&langs_count=16&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=100227"/>
 </div>
 
 
