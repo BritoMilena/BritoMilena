@@ -11,4 +11,8 @@
   <img height= "30" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+<div align="center">
+  
 ![snake gif](https://github.com/BritoMilena/BritoMilena/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
